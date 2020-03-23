@@ -1,0 +1,8 @@
+x = "hello"
+y = "15"
+a=5
+b=6
+z = a*b
+print(z)
+print(bool(x))
+print(bool(y))
